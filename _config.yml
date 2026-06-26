@@ -1,0 +1,11 @@
+title: Isaiah Hilsenrath
+description: PhD Student in Mathematics, University of Pennsylvania
+
+theme: null
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+plugins: []
