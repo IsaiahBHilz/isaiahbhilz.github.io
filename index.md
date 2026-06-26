@@ -5,7 +5,7 @@ title: Home
 
 ## **Hi y'all!!! I'm Isaiah!**
 
-![image](/assets/IMG_5091.HEIC)
+![image](/assets/IMG_5091.jpg)
 
 I am a 4th year PhD student in the department of Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) (UPenn).
 
