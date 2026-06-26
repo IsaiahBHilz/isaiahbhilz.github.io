@@ -9,7 +9,7 @@ title: Home
 
 I am a 4th year PhD student in the Department of Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) (UPenn).
 
-I won the UPenn Math department's [Good Teaching Award](https://www.math.upenn.edu/about/department-history/department-chairs/prizes-and-awards/good-teaching) in Spring and Fall 2025!
+I won the UPenn Math Department's [Good Teaching Award](https://www.math.upenn.edu/about/department-history/department-chairs/prizes-and-awards/good-teaching) in Spring and Fall 2025!
 
 I am co-advised by [Andre Scedrov](https://www.cis.upenn.edu/~scedrov/) (UPenn) and [Jean-Simon Pacaud Lemay](https://sites.google.com/view/jspl-personal-webpage/) (Macquarie University).
 
