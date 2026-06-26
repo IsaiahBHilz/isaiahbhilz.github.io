@@ -16,17 +16,17 @@ I am super excited about applied category theory, logic, and mathematical physic
 - Differential Categories
 - Turing Categories
 - Linear Logic
-- Categorical Quantume Mechanics
+- Categorical Quantum Mechanics
 - Markov Categories
-- Supersymetry
+- Supersymmetry
 
 ## **Contact**
 
 
-Full Name: Isaiah Benjamin Hilsenrath (he/him)
+**Full Name:** Isaiah Benjamin Hilsenrath (he/him)
 
-Email: [ibh@sas.upenn.edu](mailto:ibh@sas.upenn.edu)
+**Email:** [ibh@sas.upenn.edu](mailto:ibh@sas.upenn.edu)
 
-Office: [David Rittenhouse Labratory](https://facilities.upenn.edu/maps/locations/david-rittenhouse-laboratory) 3C13
+**Office:** [David Rittenhouse Labratory](https://facilities.upenn.edu/maps/locations/david-rittenhouse-laboratory) 3C13
 
-[\[arXiv\]](https://arxiv.org/search/hep-th?searchtype=author&query=Hilsenrath,+I+B) [\[ORCID\]](https://orcid.org/0009-0004-6645-1872) [\[GitHub\]](https://github.com/IsaiahBHilz) [\[Linkedin\]](https://www.linkedin.com/in/ibh/)
+You can also find me on [arXiv](https://arxiv.org/search/hep-th?searchtype=author&query=Hilsenrath,+I+B), [ORCID](https://orcid.org/0009-0004-6645-1872), [GitHub](https://github.com/IsaiahBHilz), [Linkedin](https://www.linkedin.com/in/ibh/)!
