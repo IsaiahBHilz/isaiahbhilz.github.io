@@ -7,7 +7,7 @@ title: Publications
 
 In mathematics, physics, and theoretical computer science, authors are listed alphabetically and there is no designated lead author. 
 
-For convenience, an open-source link of a pdf version is provided for each publication.
+For convenience, an open-source link of a PDF version is provided for each publication.
 
 ### **Journal Articles**
 
