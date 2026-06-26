@@ -3,16 +3,14 @@ layout: default
 title: Publications
 ---
 
-## Publications
+## **Publications**
 
-### Preprints
+In mathematics, physics, and theoretical computer science, authors are listed alphabetically and there is no designated lead author. 
 
-(coming soon)
+For convenience, an open-source link of a pdf version is provided for each publication.
 
-### Journal Articles
+### **Journal Articles**
 
-(coming soon)
-
-### Conference Proceedings
-
-(coming soon)
+- [Modern tensor–spinor symbolic algebra algorithms and computing non-closure geometry and holoraumy in 11D, N = 1 supergravity](https://www.worldscientific.com/doi/abs/10.1142/S0217751X24501185?srsltid=AfmBOooAr_EkkwPdtApF_rWdx4Wyip94V6JJMtpuMY28WufYQk_37IP_) ([PDF](https://arxiv.org/pdf/2212.00614))  
+  S. James Gates, Isaiah B. Hilsenrath, and Saul Hilsenrath (2024)  
+  International Journal of Modern Physics A

@@ -5,7 +5,7 @@ title: Students
 
 ## Directed Reading Program (University of Pennsylvania)
 
-I am currently mentoring undergraduate students through the UPenn DRP.
+I am currently mentoring undergraduate students through the [UPenn DRP](https://web.sas.upenn.edu/math-drp/).
 
 - **Adele Qian** (Spring 2026)  
   **Project Title:** The Secretary Problem: A Markov Decision Process
