@@ -1,0 +1,53 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  background: white;
+  color: black;
+}
+
+.container {
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.img {
+  max-width: 400px;
+}
+
+.header {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.subtitle {
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+.nav {
+  margin-top: 15px;
+}
+
+.nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #0645ad;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+a {
+  color: #0645ad;
+}
