@@ -7,11 +7,11 @@ title: Students
 
 I am currently mentoring undergraduate students through the UPenn DRP.
 
-- Adele Qian (Spring 2026)  
-  **The Secretary Problem: A Markov Decision Process**
+- **Adele Qian** (Spring 2026)  
+  **Project Title:** The Secretary Problem: A Markov Decision Process
 
-- Nina Becket ([Fall 2026](https://web.sas.upenn.edu/math-drp/spring-2025-projects/))  
-  **Project Title: Understanding the Basics of Lambda Calculus**
+- **Nina Becket** ([Fall 2026](https://web.sas.upenn.edu/math-drp/spring-2025-projects/))  
+  **Project Title:** Understanding the Basics of Lambda Calculus
 
-- Nihar Ballamudi ([Spring 2025](https://web.sas.upenn.edu/math-drp/spring-2025-projects/))  
- **Project Title: Why we like measuring stuff**
+- **Nihar Ballamudi** ([Spring 2025](https://web.sas.upenn.edu/math-drp/spring-2025-projects/))  
+ **Project Title:** Why we like measuring stuff
