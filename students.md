@@ -3,14 +3,15 @@ layout: default
 title: Students
 ---
 
-## Directed Reading Program (UPenn)
+## Directed Reading Program (University of Pennsylvania)
 
 I am currently mentoring undergraduate students through the UPenn DRP.
 
-### 2025–2026
+- Adele Qian (Spring 2026)  
+  **The Secretary Problem: A Markov Decision Process**
 
-- Student Name  
-  Topic: Differential Categories
+- Nina Becket ([Fall 2026](https://web.sas.upenn.edu/math-drp/spring-2025-projects/))  
+  **Project Title: Understanding the Basics of Lambda Calculus**
 
-- Student Name  
-  Topic: Introduction to Category Theory
+- Nihar Ballamudi ([Spring 2025](https://web.sas.upenn.edu/math-drp/spring-2025-projects/))  
+ **Project Title: Why we like measuring stuff**
