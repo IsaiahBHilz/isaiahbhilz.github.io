@@ -11,6 +11,6 @@ For convenience, an open-source link of a PDF version is provided for each publi
 
 ### **Journal Articles**
 
-- [Modern tensor–spinor symbolic algebra algorithms and computing non-closure geometry and holoraumy in 11D, N = 1 supergravity](https://www.worldscientific.com/doi/abs/10.1142/S0217751X24501185?srsltid=AfmBOooAr_EkkwPdtApF_rWdx4Wyip94V6JJMtpuMY28WufYQk_37IP_) ([PDF](https://arxiv.org/pdf/2212.00614))  
+- [Modern tensor–spinor symbolic algebra algorithms and computing non-closure geometry and holoraumy in 11D, N = 1 supergravity](https://www.worldscientific.com/doi/abs/10.1142/S0217751X24501185) ([PDF](https://arxiv.org/pdf/2212.00614))  
   S. James Gates, Isaiah B. Hilsenrath, and Saul Hilsenrath (2024)  
   International Journal of Modern Physics A

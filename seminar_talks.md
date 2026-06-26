@@ -15,4 +15,4 @@ title: Seminar Talks
 **Title: A Real-World Example of a Monoid of Endofunctors: The Giry Monad!** ([ABSTRACT](https://www.math.upenn.edu/events/real-world-example-monoid-endofunctors-giry-monad))
 
 - [Graduate Student Geometry-Topology Seminar](https://www.math.upenn.edu/events/seminars/graduate-student-geometry-topology-seminar) (November 15, 2024), University of Pennsylvania  
-**Title: An introduction to Markov Categories** ([ABSTRACT](https://www.math.upenn.edu/events/introduction-markov-categories))
+**Title: An Introduction to Markov Categories** ([ABSTRACT](https://www.math.upenn.edu/events/introduction-markov-categories))
